@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sumitsingh00
-- 👀 I’m interested in do some project on web developement 
-- 🌱 I’m currently learning MERN full stack development 
+- 👀 I’m interested in do some project on MERN full stack development 
+- 🌱 Reach me https://sumitsingh00.github.io/my-portfolio/
 - 📫 How to reach me email on sumit00134@gmail.com
 
 <!---
